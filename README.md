@@ -10,7 +10,7 @@ Every human being relies on and is bounded by his knowledge and experience to li
 * 🖥️  See my portfolio at [resumen](http://chris-resumen.netlify.app/)
 * ✉️  You can contact me at [mabs.chris@yahoo.com](mailto:mabs.chris@yahoo.com)
 * 🌱  I’m currently learning everything 🤣
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning web3
 * 🤝  I'm open to collaborating on anything related to code
 
 ### Skills
