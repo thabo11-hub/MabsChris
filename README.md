@@ -1,18 +1,17 @@
 Hi 👋 My name is Chris
 ======================
 
-I'm a Web Developer and UI/UX Designer
---------------------------------------
+Web Developer and Designer
+--------------------------
 
 Every human being relies on and is bounded by his knowledge and experience to live. This is what we call “reality”. However, knowledge and experience are ambiguous, thus reality can become illusion. Is it not possible to think that, all human beings are living in their assumptions?
 
-- 🌍  I'm based in South Africa, Johannesburg
-- 🖥️  See my portfolio at [resumen](http://chris-resumen.netlify.app/)
-- ✉️   You can contact me at [mabs.chris@yahoo.com](mailto:mabs.chris@yahoo.com)
-- 🚀  I'm currently working on everything
-- 🥅  2022 Goals: Learn more about web3
-- 🤝  I'm open to collaborating on anything related to code
-- 🌱  I’m currently learning everything 🤣
+* 🌍  I'm based in South Africa, Johannesburg
+* 🖥️  See my portfolio at [resumen](http://chris-resumen.netlify.app/)
+* ✉️  You can contact me at [mabs.chris@yahoo.com](mailto:mabs.chris@yahoo.com)
+* 🌱  I’m currently learning everything 🤣
+* 🧠  I'm learning Next.js
+* 🤝  I'm open to collaborating on anything related to code
 
 ### Skills
 
